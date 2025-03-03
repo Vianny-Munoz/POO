@@ -25,5 +25,5 @@ class Persona:
 
     def __str__(self):
         
-        print(f"El nombre del estudiantes es: ", self.set_nombre, "\n su edad es: ", self.set_edad, "\n su dirección es: ", self.set_direccion)
+        print(f"El nombre del estudiantes es: ", self.set_nombre, "\n la edad del estudiante es: ", self.set_edad, "\n su dirección es: ", self.set_direccion)
 
